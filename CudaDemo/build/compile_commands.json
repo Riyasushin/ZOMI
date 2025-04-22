@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/rj/codePlayground/ZOMI/CudaDemo/build",
+  "command": "/opt/cuda/bin/nvcc -forward-unknown-to-host-compiler   -g -G -O3 -g -std=c++17 \"--generate-code=arch=compute_80,code=[compute_80,sm_80]\" -x cu -c /home/rj/codePlayground/ZOMI/CudaDemo/01.cu -o CMakeFiles/01.dir/01.cu.o",
+  "file": "/home/rj/codePlayground/ZOMI/CudaDemo/01.cu",
+  "output": "CMakeFiles/01.dir/01.cu.o"
+}
+]
